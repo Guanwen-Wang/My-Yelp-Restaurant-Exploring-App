@@ -1,0 +1,6 @@
+framework module Pods_ece564_proj {
+  umbrella header "Pods-ece564-proj-umbrella.h"
+
+  export *
+  module * { export * }
+}
