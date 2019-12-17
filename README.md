@@ -1,5 +1,5 @@
-# <font color="#F1F85F">ece564-kangaroo</font>
-ECE564-2 Project, Team Kangaroo
+# <font color="#F1F85F">My Yelp Restaurant Exploring Appliction (IOS)</font>
+Duke ECE564-2 Project, Team Kangaroo
 
 ## <font color="#F8CC5F">Overview</font>
 This application is the restaurants-finding application. The user can use the app to find the restaurants near him/her, and see the details of each restaurant. The user can also look at the specific restaurant by specifying the category. There is also the functionality of seeking community events near the user's current location.
@@ -9,11 +9,6 @@ Swift 4.2
 
 Xcode 11.1
 
-## <font color="#F8CC5F">Installation</font>
-Clone the Git repository to your local machine:
-```
-git clone git@gitlab.oit.duke.edu:ece564-2/ece564-kangaroo.git
-```
 
 ## <font color="#F8CC5F">Features</font>
 | Feature | Description |
